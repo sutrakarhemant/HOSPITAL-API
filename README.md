@@ -1,2 +1,0 @@
-# HOSPITAL-API
-Hospital API
